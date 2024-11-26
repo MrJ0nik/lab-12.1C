@@ -1,0 +1,2 @@
+Average of max and min: 390.00
+Average of all numbers: 122.71

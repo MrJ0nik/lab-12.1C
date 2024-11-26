@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sun4u\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u0410\u041F\\\u041B\u0430\u0431 12,0\\\u041B\u0430\u0431 12.1C\\Lab-12.1C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59BB0BA2-E026-4378-BC24-4B9E0B21F27B}|Lab-12.1C.vcxproj|C:\\Users\\sun4u\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u0410\u041F\\\u041B\u0430\u0431 12,0\\\u041B\u0430\u0431 12.1C\\Lab-12.1C\\Lab-12.1C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59BB0BA2-E026-4378-BC24-4B9E0B21F27B}|Lab-12.1C.vcxproj|solutionrelative:Lab-12.1C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59B1F33-C12D-474F-A639-7922E892F855}|..\\UnitTest1\\UnitTest1.vcxproj|C:\\Users\\sun4u\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u0410\u041F\\\u041B\u0430\u0431 12,0\\\u041B\u0430\u0431 12.1C\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 40,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\sun4u\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u0410\u041F\\\u041B\u0430\u0431 12,0\\\u041B\u0430\u0431 12.1C\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\sun4u\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u0410\u041F\\\u041B\u0430\u0431 12,0\\\u041B\u0430\u0431 12.1C\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "..\\UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T23:08:50.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab-12.1C.cpp",
+              "DocumentMoniker": "C:\\Users\\sun4u\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u0410\u041F\\\u041B\u0430\u0431 12,0\\\u041B\u0430\u0431 12.1C\\Lab-12.1C\\Lab-12.1C.cpp",
+              "RelativeDocumentMoniker": "Lab-12.1C.cpp",
+              "ToolTip": "C:\\Users\\sun4u\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u0410\u041F\\\u041B\u0430\u0431 12,0\\\u041B\u0430\u0431 12.1C\\Lab-12.1C\\Lab-12.1C.cpp",
+              "RelativeToolTip": "Lab-12.1C.cpp",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T23:05:12.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 74,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
